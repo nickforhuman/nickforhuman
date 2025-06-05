@@ -14,38 +14,34 @@
 ###
 
 <div align="left">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png?f=webp" height="30" alt="nodejs logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png?f=webp" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp" height="30" alt="javascript logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png" height="30" alt="typescript logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-download-in-png-blend-fbx-gltf-file-formats--vue-company-brand-vol-1-pack-logos-3640297.png?f=webp" height="30" alt="vue logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-download-in-png-blend-fbx-gltf-file-formats--vue-company-brand-vol-1-pack-logos-3640297.png?f=webp" height="40" alt="vue logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png?f=webp" height="30" alt="html5 logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png?f=webp" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png?f=webp" height="30" alt="css3 logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png?f=webp" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png" height="30" alt="python logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-rust-3d-icon-download-in-png-blend-fbx-gltf-file-formats--programming-language-multi-paradigm-logo-safe-concurrency-coding-lang-pack-logos-icons-7578020.png?f=webp" height="30" alt="rust logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-rust-3d-icon-download-in-png-blend-fbx-gltf-file-formats--programming-language-multi-paradigm-logo-safe-concurrency-coding-lang-pack-logos-icons-7578020.png?f=webp" height="40" alt="rust logo"  />
   
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png?f=webp" height="30" alt="rust logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175119.png?f=webp" height="40" alt="rust logo"  />
   
   <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp" height="30" alt="rust logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp" height="40" alt="rust logo"  />
 </div>
 
 ###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/i.karakhanli/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inal-karakhanli/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:inal.kharayev@outlook.com)
 </div>
 
 ###
