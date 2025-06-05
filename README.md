@@ -22,15 +22,15 @@
 ### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-7578002.png?f=webp" height="40" alt="Node.js" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-7577991.png?f=webp" height="40" alt="JavaScript" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-7577992.png" height="40" alt="TypeScript" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-3640297.png?f=webp" height="40" alt="Vue.js" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-7578018.png?f=webp" height="40" alt="HTML5" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-7578024.png?f=webp" height="40" alt="CSS3" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-rust-3d-icon-7578020.png?f=webp" height="40" alt="Rust" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-3640297.png?f=webp" height="40" alt="Vue.js" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-7577992.png" height="40" alt="TypeScript" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-7578002.png?f=webp" height="40" alt="Node.js" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-1175119.png?f=webp" height="40" alt="PostgreSQL" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-7577996.png?f=webp" height="40" alt="MongoDB" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-7578018.png?f=webp" height="40" alt="HTML5" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-7578024.png?f=webp" height="40" alt="CSS3" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-7577991.png?f=webp" height="40" alt="JavaScript" />
 </div>
 
 ---
