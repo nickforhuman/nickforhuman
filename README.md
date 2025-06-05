@@ -28,7 +28,6 @@
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-3640297.png?f=webp" height="40" alt="Vue.js" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-7578018.png?f=webp" height="40" alt="HTML5" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-7578024.png?f=webp" height="40" alt="CSS3" />
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-5602757.png" height="40" alt="Python" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-rust-3d-icon-7578020.png?f=webp" height="40" alt="Rust" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-1175119.png?f=webp" height="40" alt="PostgreSQL" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-7577996.png?f=webp" height="40" alt="MongoDB" />
