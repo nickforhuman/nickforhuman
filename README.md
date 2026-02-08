@@ -3,16 +3,9 @@
 ---
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nickforhuman&show_icons=true&count_private=true&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="Inal's GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nickforhuman&layout=compact&langs_count=5&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="Top Languages" 
-  />
+ ![](https://github-readme-stats.vercel.app/api?username=nickforhuman&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nickforhuman&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nickforhuman&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
